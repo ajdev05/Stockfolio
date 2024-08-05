@@ -1,0 +1,94 @@
+@import url('https://fonts.googleapis.com/css?family=Exo:400,700');
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+
+}
+
+html,body{
+    position: relative;
+    margin: 0;
+    padding: 0;
+    background: linear-gradient(-45deg, #0f2027, #203a43, #2c5364, #0f2027);
+    background-repeat: no-repeat;
+    background-size: 400% 400%; /* make the background 4 times larger than the container */
+    animation: gradient 10s ease infinite; /* animate the background using the gradient animation */
+    height: 100%;
+    width:100%;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column; 
+    overflow-x: hidden;
+  }
+  
+  @keyframes gradient {
+    0% {
+      background-position: 0% 50%;
+    }
+    50% {
+      background-position: 100% 50%;
+    }
+    100% {
+      background-position: 0% 50%;
+    }
+  }
+  
+
+.main-con{
+  position: relative;
+  min-height: 100vh;
+}
+
+
+
+
+
+
+@keyframes gradient {
+    0% {
+      background-position: 0% 50%;
+    }
+    50% {
+      background-position: 100% 50%;
+    }
+    100% {
+      background-position: 0% 50%;
+    }
+  }
+
+
+  .text-md{
+    font-family: 'Source Sans Pro', sans-serif;
+    font-size: 20px;
+    color: #b0aebd;
+    margin: 0%;
+    padding: 0%;
+
+  }
+
+  .para{
+
+    width: 90vw;
+    margin: 0 auto;
+
+    padding: 30px 20px;
+
+    min-width: calc(100vh - 81px - 917px);
+  }
+.footer{  
+  width: 100%;
+  padding: 0%;
+}
+
+.node1{
+  position: relative;
+  margin: 1%;
+  padding: 2%;
+  width: 350px;
+  left: 30px;
+  bottom: -90px;
+
+}
