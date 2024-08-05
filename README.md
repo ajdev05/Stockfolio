@@ -46,7 +46,8 @@ python3 app.py
 
 ## 🖼️ Screenshots
 
-[Add screenshots of your application here]
+![image](https://github.com/user-attachments/assets/51682254-9244-42d6-a82a-fc42c76626a8)
+
 
 ## 🛠️ Technologies Used
 
