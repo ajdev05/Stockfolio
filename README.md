@@ -11,7 +11,7 @@
 
 ## 📊 About StockFolio
 
-StockFolio is a user-friendly web application designed to help you track and manage your stock investments with ease. Whether you're a seasoned investor or just starting out, StockFolio provides the tools you need to keep your portfolio organized and up-to-date.
+StockFolio is a user-friendly, self-hosted web application designed to help you easily track and manage your stock investments while keeping your data in your own hands. Whether you're a seasoned investor or just starting out, StockFolio provides the tools you need to keep your portfolio organized and up-to-date. Watch this repository or star it on GitHub for upcoming versions.
 
 ## ✨ Features
 
@@ -73,5 +73,5 @@ Contributions, issues, and feature requests are welcome! Feel free to check [iss
 ---
 
 <div align="center">
-Made with ❤️ by AJ
+Made using 🧠&🐍 by AJ
 </div>
