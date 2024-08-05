@@ -7,7 +7,7 @@ import os
 def initialize_database():
     app = create_app()
     with app.app_context():
-        if not os.path.exists('stocks.db'):
+        if not os.path.exists('stockfolio.db'):
             db.create_all()
             print("Database and tables created successfully.")
             
