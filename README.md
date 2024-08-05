@@ -42,7 +42,7 @@ python3 app.py
 ```
 
 4. Open your browser and navigate to `http://localhost:5000`
-    The default username and password are admin, You can change them by editing init_db.py
+    - The default username and password are admin, You can change them by editing init_db.py
 
 ## 🖼️ Screenshots
 
