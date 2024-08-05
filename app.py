@@ -5,6 +5,7 @@ from extensions import db
 from models import User, Stock
 import init_db as start_db
 from dotenv import load_dotenv
+import os
 
 load_dotenv()
 
