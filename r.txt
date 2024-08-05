@@ -1,0 +1,4 @@
+flask
+flask-SQLAlchemy
+python-dotenv
+pytz
