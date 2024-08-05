@@ -3,9 +3,9 @@
   <h1>StockFolio</h1>
   <p>Your Personal Stock Portfolio Tracker</p>
   
-  ![Python](https://img.shields.io/badge/python-v3.7+-blue.svg)
-  ![Flask](https://img.shields.io/badge/flask-v2.0+-green.svg)
-  ![License](https://img.shields.io/badge/license-MIT-blue.svg)
+  ![Python](https://img.shields.io/badge/Python-v3.11+-blue.svg)
+  ![Flask](https://img.shields.io/badge/Flask-v3.0+-green.svg)
+  ![License](https://img.shields.io/badge/License-MIT-blue.svg)
 
 </div>
 
