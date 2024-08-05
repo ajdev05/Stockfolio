@@ -28,3 +28,17 @@ StockFolio is a user-friendly web application designed to help you track and man
 git clone https://github.com/ajdev05/Stockfolio.git
 cd Stockfolio
 ```
+
+2. **Set up a virtual environment & install dependencies**
+```
+pip install virtualenv
+virtualenv env
+pip install -r r.txt
+```
+
+3. **Run the application**
+```
+python3 app.py
+```
+
+
