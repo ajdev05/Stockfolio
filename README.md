@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="static/imgs/stonkz.png" alt="StockFolio Logo" width="200"/>
+  <img src="static/imgs/stonkz.png" alt="StockFolio Logo" width=""/>
   <h1>StockFolio</h1>
   <p>Your Personal Stock Portfolio Tracker</p>
   
