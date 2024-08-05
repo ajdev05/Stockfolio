@@ -24,3 +24,7 @@ StockFolio is a user-friendly web application designed to help you track and man
 ## 🚀 Getting Started
 
 1. **Clone the repository**
+```
+git clone https://github.com/ajdev05/Stockfolio.git
+cd Stockfolio
+```
