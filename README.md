@@ -48,14 +48,6 @@ python3 app.py
 
 ![image](https://github.com/user-attachments/assets/91fb4197-4896-4bf4-a72a-d1818285905e)
 
-
-## 🛠️ Technologies Used
-
-- **Frontend**: HTML, CSS, JavaScript, TailwindCSS
-- **Backend**: Python, Flask
-- **Database**: SQLite
-- **Charts**: TradingView Widget
-
 ## 📝 License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
