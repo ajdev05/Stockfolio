@@ -91,12 +91,3 @@ if __name__ == "__main__":
     start_db.initialize_database()
     app.run(debug=True, host="0.0.0.0")
 
-"""
-echo "# Stockfolio" >> README.md
-git init
-git add README.md
-git commit -m "first commit"
-git branch -M main
-git remote add origin https://github.com/ajdev05/Stockfolio.git
-git push -u origin main
-"""
