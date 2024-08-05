@@ -4,11 +4,13 @@ from datetime import datetime
 from extensions import db
 from models import User, Stock
 import init_db as start_db
+from dotenv import load_dotenv
 
+load_dotenv()
 
 def create_app():
     app = Flask(__name__)
-    app.config['SECRET_KEY'] = 'StockFolio12345'
+    app.config['SECRET_KEY'] = os.getenv('SECRET_KEY')
     app.config['SQLALCHEMY_DATABASE_URI'] = 'sqlite:///stockfolio.db'
     db.init_app(app)
 
