@@ -9,7 +9,7 @@ import init_db as start_db
 def create_app():
     app = Flask(__name__)
     app.config['SECRET_KEY'] = 'StockFolio12345'
-    app.config['SQLALCHEMY_DATABASE_URI'] = 'sqlite:///stocks.db'
+    app.config['SQLALCHEMY_DATABASE_URI'] = 'sqlite:///stockfolio.db'
     db.init_app(app)
 
     @app.template_filter('format_date')
