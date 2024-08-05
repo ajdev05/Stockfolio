@@ -41,4 +41,36 @@ pip install -r r.txt
 python3 app.py
 ```
 
+4. Open your browser and navigate to `http://localhost:5000`
+### Default username and password are admin, You can change them by editing init_db.py
 
+## 🖼️ Screenshots
+
+[Add screenshots of your application here]
+
+## 🛠️ Technologies Used
+
+- **Frontend**: HTML, CSS, JavaScript, TailwindCSS
+- **Backend**: Python, Flask
+- **Database**: SQLite
+- **Charts**: TradingView Widget
+
+## 📝 License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+## 🤝 Contributing
+
+Contributions, issues, and feature requests are welcome! Feel free to check [issues page](https://github.com/ajdev05/Stockfolio/issues).
+
+## 👨‍💻 Author
+
+**AJ**
+
+- GitHub: [@ajdev05](https://github.com/ajdev05)
+
+---
+
+<div align="center">
+Made with ❤️ by AJ
+</div>
